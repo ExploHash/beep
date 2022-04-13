@@ -1,0 +1,24 @@
+{
+  "name": "beep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ExploHash/beep.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ExploHash/beep/issues"
+  },
+  "homepage": "https://github.com/ExploHash/beep#readme",
+  "dependencies": {
+    "play-sound": "^1.1.5",
+    "tonegenerator": "^0.3.2",
+    "waveheader": "^0.0.2"
+  }
+}
